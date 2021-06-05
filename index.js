@@ -2,8 +2,8 @@ const axios = require('axios');
 const fs = require('fs');
 
 
-const clientID = 'bc725be8a58e219b27a1c0d421ac8d06';
-const secretKey = '24c000d13718ec557fe4c6d29e3441b026afb116';
+const clientID = '';
+const secretKey = '';
 
 const fromHub = 63867;
 const outputFile = 'unqork';
